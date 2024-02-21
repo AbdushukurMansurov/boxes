@@ -1,0 +1,97 @@
+.box{
+    background-color: rgb(8, 146, 146);
+    color: white;
+    width: 100%;
+    height:150px ;
+    text-align: center  ;
+    font-size: 30px;
+    
+    
+}
+ 
+.box1{
+    background-color: red;
+    color: white;
+    width: 25%;
+    height:200px ;
+    text-align: center;
+    font-size: 30px;   
+}
+.box2{
+    background-color: green;
+    color: white;
+    width: 50%;
+    height:200px ;    
+    font-size: 30px; 
+    text-align: center;
+     
+      
+}
+.box3{
+    background-color: yellow;
+    color: white;
+    width: 25%;
+    height:200px ;
+    text-align: center;
+    font-size: 30px;
+}
+body{
+    background-color: purple;
+    
+}
+.b{
+    flex-wrap:wrap;
+    display: flex ;
+    flex-direction:row;
+    
+}
+.ab{
+   
+    background-color: orange;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    width: 23%;
+    height: 150px;
+}
+.du{
+    background-color: orange;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    width: 23%;
+    height: 150px;
+}
+.shu{
+    background-color: orange;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    width: 23%;
+    height: 150px;
+}
+.kur{
+    background-color: orange;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    width: 23%;
+    height: 150px;
+}
+
+.a{
+    flex-wrap:wrap;
+    display: flex ;
+    align-items: center; 
+    flex-direction:row;
+    justify-content:space-evenly;
+    margin: 130px;
+   
+}
+p{
+    padding: 50px ;
+}
+.gh{
+    padding: 30px   ;
+   
+}
